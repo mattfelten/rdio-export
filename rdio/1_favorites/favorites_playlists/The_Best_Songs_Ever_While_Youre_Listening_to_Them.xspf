@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>The Best Songs Ever While You're Listening to Them</title>
+  <creator>DanCassaro</creator>
+  <meta rel="https://rdio.com/xspf/key">p432795</meta>
+  <meta rel="https://rdio.com/xspf/name">The Best Songs Ever While You're Listening to Them</meta>
+  <meta rel="https://rdio.com/xspf/owner">DanCassaro</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">1_favorites</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">favorites_playlists</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/DanCassaro/playlists/432795/The_Best_Songs_Ever_While_You%27re_Listening_to_Them/</meta>
+  <trackList>
+    <track>
+      <title>Love Child</title>
+      <creator>Diana Ross &amp; The Supremes</creator>
+      <album>Motown: The Complete No. 1's</album>
+      <trackNum>47</trackNum>
+      <duration>175000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMO16882616</meta>
+    </track>
+    <track>
+      <title>Africa</title>
+      <creator>Toto</creator>
+      <album>Toto IV</album>
+      <trackNum>10</trackNum>
+      <duration>295000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19801941</meta>
+    </track>
+    <track>
+      <title>Rosalita (Come Out Tonight)</title>
+      <creator>Bruce Springsteen</creator>
+      <album>The Wild, the Innocent, &amp; The E Street Shuffle</album>
+      <trackNum>6</trackNum>
+      <duration>421000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10000642</meta>
+    </track>
+    <track>
+      <title>The Swimming Song (Album Version)</title>
+      <creator>Loudon Wainwright III</creator>
+      <album>Attempted Mustache</album>
+      <trackNum>1</trackNum>
+      <duration>147000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17300491</meta>
+    </track>
+    <track>
+      <title>Bohemian Rhapsody</title>
+      <creator>Queen</creator>
+      <album>Greatest Hits 1 &amp; 2</album>
+      <trackNum>1</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEE7500015</meta>
+    </track>
+    <track>
+      <title>Dancing Queen</title>
+      <creator>ABBA</creator>
+      <album>ABBA Gold</album>
+      <trackNum>1</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">SEAYD7601020</meta>
+    </track>
+    <track>
+      <title>Crazy On You</title>
+      <creator>Heart</creator>
+      <album>Dreamboat Annie</album>
+      <trackNum>3</trackNum>
+      <duration>234000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA28600007</meta>
+    </track>
+    <track>
+      <title>Nights On Broadway</title>
+      <creator>Bee Gees</creator>
+      <album>Main Course</album>
+      <trackNum>1</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRH10722658,GBAKW7501054</meta>
+    </track>
+    <track>
+      <title>This Year</title>
+      <creator>The Mountain Goats</creator>
+      <album>The Sunset Tree</album>
+      <trackNum>3</trackNum>
+      <duration>232000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL0400071</meta>
+    </track>
+    <track>
+      <title>Good Vibrations (2001 - Remaster)</title>
+      <creator>The Beach Boys</creator>
+      <album>Good Vibrations 40th Anniversary</album>
+      <trackNum>1</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20100360</meta>
+    </track>
+    <track>
+      <title>The Harder They Come</title>
+      <creator>Jimmy Cliff</creator>
+      <album>Ultimate Collection: Jimmy Cliff</album>
+      <trackNum>8</trackNum>
+      <duration>221000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN7200011</meta>
+    </track>
+    <track>
+      <title>Suspicious Minds (Remastered)</title>
+      <creator>Elvis Presley</creator>
+      <album>The Essential Elvis Presley</album>
+      <trackNum>30</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10201481</meta>
+    </track>
+    <track>
+      <title>All Through the Night</title>
+      <creator>Cyndi Lauper</creator>
+      <album>She's So Unusual</album>
+      <trackNum>6</trackNum>
+      <duration>272000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18300652</meta>
+    </track>
+  </trackList>
+</playlist>

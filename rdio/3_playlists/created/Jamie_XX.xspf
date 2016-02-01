@@ -1,0 +1,212 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Jamie XX</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p11327631</meta>
+  <meta rel="https://rdio.com/xspf/name">Jamie XX</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/11327631/Jamie_XX/</meta>
+  <trackList>
+    <track>
+      <title>Far Nearer</title>
+      <creator>Jamie xx</creator>
+      <album>Far Nearer / Beat For - EP</album>
+      <trackNum>1</trackNum>
+      <duration>410000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1100133</meta>
+    </track>
+    <track>
+      <title>Beat For</title>
+      <creator>Jamie xx</creator>
+      <album>Far Nearer / Beat For - EP</album>
+      <trackNum>2</trackNum>
+      <duration>345000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1100134</meta>
+    </track>
+    <track>
+      <title>Girl</title>
+      <creator>Jamie xx</creator>
+      <album>Girl/Sleep Sound</album>
+      <trackNum>1</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1300147</meta>
+    </track>
+    <track>
+      <title>Sleep Sound</title>
+      <creator>Jamie xx</creator>
+      <album>Girl/Sleep Sound</album>
+      <trackNum>2</trackNum>
+      <duration>382000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1300174</meta>
+    </track>
+    <track>
+      <title>All Under One Roof Raving</title>
+      <creator>Jamie xx</creator>
+      <album>All Under One Roof Raving</album>
+      <trackNum>1</trackNum>
+      <duration>359000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7MC1400011,UK7MC1400056</meta>
+    </track>
+    <track>
+      <title>Sunset (Jamie xx Edit)</title>
+      <creator>The xx</creator>
+      <album>Jamie xx Edits</album>
+      <trackNum>1</trackNum>
+      <duration>377000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1200209</meta>
+    </track>
+    <track>
+      <title>Reconsider (Jamie xx Edit)</title>
+      <creator>The xx</creator>
+      <album>Jamie xx Edits</album>
+      <trackNum>2</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1200198</meta>
+    </track>
+    <track>
+      <title>I'm New Here</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>1</trackNum>
+      <duration>206000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000376</meta>
+    </track>
+    <track>
+      <title>Home</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>2</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000377</meta>
+    </track>
+    <track>
+      <title>I've Been Me (Interlude)</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>3</trackNum>
+      <duration>27000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000378</meta>
+    </track>
+    <track>
+      <title>Running</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>4</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000379</meta>
+    </track>
+    <track>
+      <title>My Cloud</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>5</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000380</meta>
+    </track>
+    <track>
+      <title>Certain Things (Interlude)</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>6</trackNum>
+      <duration>9000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000381</meta>
+    </track>
+    <track>
+      <title>The Crutch</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>7</trackNum>
+      <duration>189000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000382</meta>
+    </track>
+    <track>
+      <title>Ur Soul And Mine</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>8</trackNum>
+      <duration>257000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000383</meta>
+    </track>
+    <track>
+      <title>Parents (Interlude)</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>9</trackNum>
+      <duration>28000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000384</meta>
+    </track>
+    <track>
+      <title>Piano Player</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>10</trackNum>
+      <duration>76000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000385</meta>
+    </track>
+    <track>
+      <title>NY Is Killing Me</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>11</trackNum>
+      <duration>343000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000342</meta>
+    </track>
+    <track>
+      <title>Jazz (Interlude)</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>12</trackNum>
+      <duration>49000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000386</meta>
+    </track>
+    <track>
+      <title>I'll Take Care Of U</title>
+      <creator>Gil Scott-Heron &amp; Jamie xx</creator>
+      <album>We're New Here</album>
+      <trackNum>13</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS1000387</meta>
+    </track>
+    <track>
+      <title>Bloom (Jamie XX Rework)</title>
+      <creator>Radiohead</creator>
+      <album>TKOL RMX 1234567</album>
+      <trackNum>17</trackNum>
+      <duration>146000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100039</meta>
+    </track>
+    <track>
+      <title>Fog (Jamie xx Remix)</title>
+      <creator>NOSAJ THING</creator>
+      <album>Drift Remixed</album>
+      <trackNum>5</trackNum>
+      <duration>281000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US25X1082459</meta>
+    </track>
+    <track>
+      <title>Hip Love (Jamie xx Remix)</title>
+      <creator>FaltyDL</creator>
+      <album>Hip Love</album>
+      <trackNum>2</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKMS1000074</meta>
+    </track>
+    <track>
+      <title>Tremel (Jamie xx Remix)</title>
+      <creator>Glasser</creator>
+      <album>Tremel</album>
+      <trackNum>3</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB6HK0900005</meta>
+    </track>
+    <track>
+      <title>Bloom (Jamie xx Rework Part 3)</title>
+      <creator>Radiohead</creator>
+      <album>TKOL RMX8</album>
+      <trackNum>1</trackNum>
+      <duration>467000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100046</meta>
+    </track>
+  </trackList>
+</playlist>

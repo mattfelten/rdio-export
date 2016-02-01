@@ -1,0 +1,52 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>pick it up</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p13620633</meta>
+  <meta rel="https://rdio.com/xspf/name">pick it up</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/13620633/pick_it_up/</meta>
+  <trackList>
+    <track>
+      <title>Dark Bird Is Home</title>
+      <creator>The Tallest Man On Earth</creator>
+      <album>Dark Bird Is Home</album>
+      <trackNum>10</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJ5G1510010</meta>
+    </track>
+    <track>
+      <title>Walls (Circus)</title>
+      <creator>Tom Petty and the Heartbreakers</creator>
+      <album>She's The One (Songs and Music From The Motion Picture)</album>
+      <trackNum>1</trackNum>
+      <duration>265000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19600177</meta>
+    </track>
+    <track>
+      <title>The Obvious Child</title>
+      <creator>Paul Simon</creator>
+      <album>The Essential Paul Simon</album>
+      <trackNum>25</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11002341</meta>
+    </track>
+    <track>
+      <title>This Year</title>
+      <creator>The Mountain Goats</creator>
+      <album>The Sunset Tree</album>
+      <trackNum>3</trackNum>
+      <duration>232000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL0400071</meta>
+    </track>
+    <track>
+      <title>I Woke Up Today</title>
+      <creator>Port O'Brien</creator>
+      <album>All We Could Do Was Sing</album>
+      <trackNum>1</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMSP0800001</meta>
+    </track>
+  </trackList>
+</playlist>

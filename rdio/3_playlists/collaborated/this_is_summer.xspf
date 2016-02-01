@@ -1,0 +1,220 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>this is summer</title>
+  <creator>albertlistenstomusic</creator>
+  <meta rel="https://rdio.com/xspf/key">p3706157</meta>
+  <meta rel="https://rdio.com/xspf/name">this is summer</meta>
+  <meta rel="https://rdio.com/xspf/owner">albertlistenstomusic</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">collaborated</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/albertlistenstomusic/playlists/3706157/this_is_summer/</meta>
+  <trackList>
+    <track>
+      <title>Golden Age</title>
+      <creator>Beach Fossils</creator>
+      <album>Beach Fossils</album>
+      <trackNum>7</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8YA1010091</meta>
+    </track>
+    <track>
+      <title>Sometimes</title>
+      <creator>Beach Fossils</creator>
+      <album>Beach Fossils</album>
+      <trackNum>1</trackNum>
+      <duration>175000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8YA1010085</meta>
+    </track>
+    <track>
+      <title>Youth</title>
+      <creator>Beach Fossils</creator>
+      <album>Beach Fossils</album>
+      <trackNum>2</trackNum>
+      <duration>156000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8YA1010086</meta>
+    </track>
+    <track>
+      <title>The Horse</title>
+      <creator>Beach Fossils</creator>
+      <album>Beach Fossils</album>
+      <trackNum>9</trackNum>
+      <duration>165000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8YA1010093</meta>
+    </track>
+    <track>
+      <title>Let's Go Surfing</title>
+      <creator>The Drums</creator>
+      <album>Summertime!</album>
+      <trackNum>2</trackNum>
+      <duration>174000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM80936058</meta>
+    </track>
+    <track>
+      <title>Don't Be A Jerk, Jonny</title>
+      <creator>The Drums</creator>
+      <album>Summertime!</album>
+      <trackNum>4</trackNum>
+      <duration>253000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM80936060</meta>
+    </track>
+    <track>
+      <title>Continuous Thunder</title>
+      <creator>Japandroids</creator>
+      <album>Celebration Rock</album>
+      <trackNum>8</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R41223808</meta>
+    </track>
+    <track>
+      <title>Take It Easy</title>
+      <creator>Surfer Blood</creator>
+      <album>Astro Coast</album>
+      <trackNum>3</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US28E0948203</meta>
+    </track>
+    <track>
+      <title>Floating Vibes</title>
+      <creator>Surfer Blood</creator>
+      <album>Astro Coast</album>
+      <trackNum>1</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US28E0948201</meta>
+    </track>
+    <track>
+      <title>I'm Not Ready</title>
+      <creator>Surfer Blood</creator>
+      <album>Tarot Classics</album>
+      <trackNum>1</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US28E1170601</meta>
+    </track>
+    <track>
+      <title>It's Real</title>
+      <creator>Real Estate</creator>
+      <album>It's Real</album>
+      <trackNum>1</trackNum>
+      <duration>168000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1100366</meta>
+    </track>
+    <track>
+      <title>When I'm With You</title>
+      <creator>Best Coast</creator>
+      <album>Crazy For You</album>
+      <trackNum>13</trackNum>
+      <duration>178000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMEX1000113</meta>
+    </track>
+    <track>
+      <title>Wish He Was You</title>
+      <creator>Best Coast</creator>
+      <album>Something In The Way</album>
+      <trackNum>2</trackNum>
+      <duration>143000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJLE1093002</meta>
+    </track>
+    <track>
+      <title>Something In The Way</title>
+      <creator>Best Coast</creator>
+      <album>Something In The Way</album>
+      <trackNum>1</trackNum>
+      <duration>130000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJLE1093001</meta>
+    </track>
+    <track>
+      <title>Master Of None</title>
+      <creator>Beach House</creator>
+      <album>Beach House</album>
+      <trackNum>4</trackNum>
+      <duration>199000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US22N0503504</meta>
+    </track>
+    <track>
+      <title>Apple Orchard</title>
+      <creator>Beach House</creator>
+      <album>Beach House</album>
+      <trackNum>3</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US22N0503503</meta>
+    </track>
+    <track>
+      <title>Afternoon</title>
+      <creator>Youth Lagoon</creator>
+      <album>The Year Of Hibernation</album>
+      <trackNum>3</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFP71125503</meta>
+    </track>
+    <track>
+      <title>Feel It All Around</title>
+      <creator>Washed Out</creator>
+      <album>Life Of Leisure</album>
+      <trackNum>4</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMEX0800099</meta>
+    </track>
+    <track>
+      <title>Feel Flows</title>
+      <creator>The Beach Boys</creator>
+      <album>Surf's Up</album>
+      <trackNum>6</trackNum>
+      <duration>288000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USGJP1300220,USBR10900019</meta>
+    </track>
+    <track>
+      <title>Ivy Covered House</title>
+      <creator>Ducktails</creator>
+      <album>The Flower Lane</album>
+      <trackNum>1</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1200389</meta>
+    </track>
+    <track>
+      <title>Ponytail</title>
+      <creator>Panda Bear</creator>
+      <album>Person Pitch</album>
+      <trackNum>7</trackNum>
+      <duration>125000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QM2CM1500038,US22N0491407,GBCEL1500028</meta>
+    </track>
+    <track>
+      <title>Comfy In Nautica</title>
+      <creator>Panda Bear</creator>
+      <album>Person Pitch</album>
+      <trackNum>1</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QM2CM1500032,GBCEL1500022,US22N0491401</meta>
+    </track>
+    <track>
+      <title>Oh, Mojave</title>
+      <creator>The Ruby Suns</creator>
+      <album>Sea Lion</album>
+      <trackNum>2</trackNum>
+      <duration>151000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NZLC00800002,USSUB0776602</meta>
+    </track>
+    <track>
+      <title>Blessa</title>
+      <creator>Toro Y Moi</creator>
+      <album>Causers Of This</album>
+      <trackNum>1</trackNum>
+      <duration>163000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US22N1005201,AUVB01000013</meta>
+    </track>
+    <track>
+      <title>Can't Help But Smiling</title>
+      <creator>Devendra Banhart</creator>
+      <album>What Will We Be</album>
+      <trackNum>1</trackNum>
+      <duration>144000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10903994</meta>
+    </track>
+    <track>
+      <title>Ohm</title>
+      <creator>Yo La Tengo</creator>
+      <album>Fade</album>
+      <trackNum>1</trackNum>
+      <duration>407000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMTD1203163</meta>
+    </track>
+  </trackList>
+</playlist>

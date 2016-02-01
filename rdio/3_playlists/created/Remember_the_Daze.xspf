@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Remember the Daze</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p7707055</meta>
+  <meta rel="https://rdio.com/xspf/name">Remember the Daze</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/7707055/Remember_the_Daze/</meta>
+  <trackList>
+    <track>
+      <title>Don't Stop Believin'</title>
+      <creator>Journey</creator>
+      <album>Greatest Hits</album>
+      <trackNum>2</trackNum>
+      <duration>249000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM19932790</meta>
+    </track>
+    <track>
+      <title>Time After Time</title>
+      <creator>Cyndi Lauper</creator>
+      <album>She's So Unusual</album>
+      <trackNum>4</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18300650</meta>
+    </track>
+    <track>
+      <title>Forever Young</title>
+      <creator>Alphaville</creator>
+      <album>Forever Young</album>
+      <trackNum>6</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEA629260150</meta>
+    </track>
+    <track>
+      <title>A Whiter Shade Of Pale</title>
+      <creator>Procol Harum</creator>
+      <album>Pirate Radio</album>
+      <trackNum>20</trackNum>
+      <duration>239000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ATM470300459</meta>
+    </track>
+    <track>
+      <title>I'll Stand By You (2009 Remastered Version)</title>
+      <creator>Pretenders</creator>
+      <album>The Best Of The Pretenders (Digital Version) (US Version)</album>
+      <trackNum>9</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAHT0900200</meta>
+    </track>
+    <track>
+      <title>The Promise</title>
+      <creator>When In Rome</creator>
+      <album>When In Rome</album>
+      <trackNum>1</trackNum>
+      <duration>184000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA8800494</meta>
+    </track>
+    <track>
+      <title>True Colors</title>
+      <creator>Cyndi Lauper</creator>
+      <album>True Colors</album>
+      <trackNum>4</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18600632</meta>
+    </track>
+    <track>
+      <title>Groovy Kind Of Love</title>
+      <creator>Phil Collins</creator>
+      <album>Love Songs (A Compilation Old and New)</album>
+      <trackNum>6</trackNum>
+      <duration>210000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWI19600266</meta>
+    </track>
+    <track>
+      <title>The Lady In Red</title>
+      <creator>Chris de Burgh</creator>
+      <album>The Best Of Chris de Burgh 20th Century Masters The Millennium Collection</album>
+      <trackNum>5</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM8600001</meta>
+    </track>
+    <track>
+      <title>Eternal Flame</title>
+      <creator>The Bangles</creator>
+      <album>Everything</album>
+      <trackNum>5</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM18800153</meta>
+    </track>
+    <track>
+      <title>Take My Breath Away</title>
+      <creator>Berlin</creator>
+      <album>Take My Breath Away</album>
+      <trackNum>1</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560630200</meta>
+    </track>
+    <track>
+      <title>Say Hello, Wave Goodbye (7" Single Version)</title>
+      <creator>Soft Cell</creator>
+      <album>The Singles</album>
+      <trackNum>4</trackNum>
+      <duration>328000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF088100775</meta>
+    </track>
+    <track>
+      <title>Always On My Mind (Demo Version; 2001 Remastered Version)</title>
+      <creator>Pet Shop Boys</creator>
+      <album>Actually: Further Listening 1987-1988</album>
+      <trackNum>19</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE0100069</meta>
+    </track>
+  </trackList>
+</playlist>

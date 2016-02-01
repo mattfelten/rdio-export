@@ -1,0 +1,196 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Nightriding</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p6737013</meta>
+  <meta rel="https://rdio.com/xspf/name">Nightriding</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/6737013/Nightriding/</meta>
+  <trackList>
+    <track>
+      <title>Swim and Sleep (Like a Shark)</title>
+      <creator>Unknown Mortal Orchestra</creator>
+      <album>II</album>
+      <trackNum>2</trackNum>
+      <duration>165000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y1323202</meta>
+    </track>
+    <track>
+      <title>Transatlanticism</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Transatlanticism</album>
+      <trackNum>7</trackNum>
+      <duration>475000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBS50310285</meta>
+    </track>
+    <track>
+      <title>Spanish Sahara</title>
+      <creator>Foals</creator>
+      <album>Total Life Forever</album>
+      <trackNum>5</trackNum>
+      <duration>409000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB1087505,GBAHT1000047</meta>
+    </track>
+    <track>
+      <title>So Many Details</title>
+      <creator>Toro Y Moi</creator>
+      <album>Anything In Return</album>
+      <trackNum>3</trackNum>
+      <duration>286000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR4GL1104561,US22N1207703,AUVB01300003,US22N1307703</meta>
+    </track>
+    <track>
+      <title>The District Sleeps Alone Tonight (Tonight Album)</title>
+      <creator>The Postal Service</creator>
+      <album>Give Up</album>
+      <trackNum>1</trackNum>
+      <duration>284000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0300119</meta>
+    </track>
+    <track>
+      <title>Separator</title>
+      <creator>Radiohead</creator>
+      <album>The King Of Limbs</album>
+      <trackNum>8</trackNum>
+      <duration>320000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBU4B1100010</meta>
+    </track>
+    <track>
+      <title>Islands</title>
+      <creator>The xx</creator>
+      <album>XX</album>
+      <trackNum>4</trackNum>
+      <duration>161000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0900198</meta>
+    </track>
+    <track>
+      <title>Underneath The Sycamore</title>
+      <creator>Death Cab for Cutie</creator>
+      <album>Codes and Keys</album>
+      <trackNum>9</trackNum>
+      <duration>204000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21100631</meta>
+    </track>
+    <track>
+      <title>Intro</title>
+      <creator>The xx</creator>
+      <album>XX</album>
+      <trackNum>1</trackNum>
+      <duration>128000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0900196</meta>
+    </track>
+    <track>
+      <title>Fitzpleasure</title>
+      <creator>alt-J</creator>
+      <album>An Awesome Wave</album>
+      <trackNum>10</trackNum>
+      <duration>219000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZUZ1200059,GBZUZ1100059</meta>
+    </track>
+    <track>
+      <title>Wake Up</title>
+      <creator>Arcade Fire</creator>
+      <album>Funeral</album>
+      <trackNum>7</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0467008,USMRG0467007</meta>
+    </track>
+    <track>
+      <title>Obstacle 1</title>
+      <creator>Interpol</creator>
+      <album>Turn On The Bright Lights</album>
+      <trackNum>2</trackNum>
+      <duration>251000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMTD0254502</meta>
+    </track>
+    <track>
+      <title>Paris</title>
+      <creator>Friendly Fires</creator>
+      <album>Friendly Fires</album>
+      <trackNum>3</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0800406</meta>
+    </track>
+    <track>
+      <title>The House That Heaven Built</title>
+      <creator>Japandroids</creator>
+      <album>The House That Heaven Built</album>
+      <trackNum>1</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R41223901</meta>
+    </track>
+    <track>
+      <title>Für Hildegard von Bingen</title>
+      <creator>Devendra Banhart</creator>
+      <album>Mala</album>
+      <trackNum>3</trackNum>
+      <duration>155000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNO11200493</meta>
+    </track>
+    <track>
+      <title>Midi Drift</title>
+      <creator>Games</creator>
+      <album>That We Can Play</album>
+      <trackNum>2</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGCA1001071</meta>
+    </track>
+    <track>
+      <title>Keep You</title>
+      <creator>Class Actress</creator>
+      <album>Rapprocher</album>
+      <trackNum>1</trackNum>
+      <duration>194000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US22N1106501,FR6V81825612</meta>
+    </track>
+    <track>
+      <title>Nightcall</title>
+      <creator>Kavinsky</creator>
+      <album>Nightcall</album>
+      <trackNum>1</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRS710900410</meta>
+    </track>
+    <track>
+      <title>Midnight City</title>
+      <creator>M83</creator>
+      <album>Hurry Up, We're Dreaming</album>
+      <trackNum>2</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB55H1100002</meta>
+    </track>
+    <track>
+      <title>Not In Love</title>
+      <creator>Crystal Castles</creator>
+      <album>Not In Love feat. Robert Smith</album>
+      <trackNum>1</trackNum>
+      <duration>226000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71029513</meta>
+    </track>
+    <track>
+      <title>A Real Hero</title>
+      <creator>College</creator>
+      <album>A Real Hero EP</album>
+      <trackNum>1</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V80039200</meta>
+    </track>
+    <track>
+      <title>Were Before</title>
+      <creator>Cults</creator>
+      <album>Static</album>
+      <trackNum>5</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11303914</meta>
+    </track>
+    <track>
+      <title>Nobody Gets Me But You</title>
+      <creator>Spoon</creator>
+      <album>Transference</album>
+      <trackNum>11</trackNum>
+      <duration>296000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG1036511</meta>
+    </track>
+  </trackList>
+</playlist>

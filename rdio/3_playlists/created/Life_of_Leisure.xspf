@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Life of Leisure</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p160220</meta>
+  <meta rel="https://rdio.com/xspf/name">Life of Leisure</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/160220/Life_of_Leisure/</meta>
+  <trackList>
+    <track>
+      <title>Ride Like The Wind</title>
+      <creator>Christopher Cross</creator>
+      <album>Christopher Cross</album>
+      <trackNum>6</trackNum>
+      <duration>276000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19901342</meta>
+    </track>
+    <track>
+      <title>Is She Really Going Out With Him?</title>
+      <creator>Joe Jackson</creator>
+      <album>Look Sharp! (Remastered)</album>
+      <trackNum>3</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM7801002</meta>
+    </track>
+    <track>
+      <title>The Way It Is (Remastered)</title>
+      <creator>Bruce Hornsby</creator>
+      <album>Greatest Radio Hits</album>
+      <trackNum>1</trackNum>
+      <duration>297000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10301338</meta>
+    </track>
+    <track>
+      <title>Sailing</title>
+      <creator>Christopher Cross</creator>
+      <album>Christopher Cross</album>
+      <trackNum>8</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19901344</meta>
+    </track>
+    <track>
+      <title>All Out of Love</title>
+      <creator>Air Supply</creator>
+      <album>Love Songs</album>
+      <trackNum>3</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR18000002</meta>
+    </track>
+    <track>
+      <title>Careless Whisper (Remastered)</title>
+      <creator>George Michael</creator>
+      <album>Twenty Five</album>
+      <trackNum>16</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL0601610</meta>
+    </track>
+    <track>
+      <title>Steppin' Out</title>
+      <creator>Joe Jackson</creator>
+      <album>Greatest Hits: Joe Jackson</album>
+      <trackNum>9</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM8200001</meta>
+    </track>
+    <track>
+      <title>Private Eyes (Remastered)</title>
+      <creator>Hall &amp; Oates</creator>
+      <album>The Essential Daryl Hall &amp; John Oates</album>
+      <trackNum>17</trackNum>
+      <duration>217000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10301825</meta>
+    </track>
+    <track>
+      <title>Hold On</title>
+      <creator>Wilson Phillips</creator>
+      <album>Wilson Phillips</album>
+      <trackNum>1</trackNum>
+      <duration>266000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSB29000002</meta>
+    </track>
+    <track>
+      <title>Monte Carlo</title>
+      <creator>U.S. Royalty</creator>
+      <album>Mirrors</album>
+      <trackNum>3</trackNum>
+      <duration>289000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA371136251,US4XR1453003</meta>
+    </track>
+    <track>
+      <title>Baker Street</title>
+      <creator>Gerry Rafferty</creator>
+      <album>City To City</album>
+      <trackNum>2</trackNum>
+      <duration>361000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE7800619</meta>
+    </track>
+    <track>
+      <title>Higher Love (Full Album Version)</title>
+      <creator>Steve Winwood</creator>
+      <album>Chronicles</album>
+      <trackNum>8</trackNum>
+      <duration>348000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN8600003,GBAAN8790031</meta>
+    </track>
+    <track>
+      <title>Higher Love (Full Album Version)</title>
+      <creator>Steve Winwood</creator>
+      <album>The Finer Things</album>
+      <trackNum>57</trackNum>
+      <duration>349000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAN8790031</meta>
+    </track>
+  </trackList>
+</playlist>

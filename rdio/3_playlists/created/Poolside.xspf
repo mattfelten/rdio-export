@@ -1,0 +1,148 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Poolside</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p8214174</meta>
+  <meta rel="https://rdio.com/xspf/name">Poolside</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/8214174/Poolside/</meta>
+  <trackList>
+    <track>
+      <title>You're the One for Me</title>
+      <creator>Great Good Fine OK</creator>
+      <album>You're the One for Me</album>
+      <trackNum>1</trackNum>
+      <duration>230000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABQ1365065</meta>
+    </track>
+    <track>
+      <title>To Be With You</title>
+      <creator>Holy Models</creator>
+      <album>Swimming</album>
+      <trackNum>5</trackNum>
+      <duration>255000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BEN581300295</meta>
+    </track>
+    <track>
+      <title>You Make My Dreams (Remastered)</title>
+      <creator>Hall &amp; Oates</creator>
+      <album>The Essential Daryl Hall &amp; John Oates</album>
+      <trackNum>15</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10301828</meta>
+    </track>
+    <track>
+      <title>At Home (Passion Pit Remix)</title>
+      <creator>Crystal Fighters</creator>
+      <album>Star Of Love Remixes</album>
+      <trackNum>1</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBE7C1200009</meta>
+    </track>
+    <track>
+      <title>Out of Touch (Remastered)</title>
+      <creator>Hall &amp; Oates</creator>
+      <album>The Essential Daryl Hall &amp; John Oates</album>
+      <trackNum>26</trackNum>
+      <duration>247000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10301824</meta>
+    </track>
+    <track>
+      <title>Pomslap</title>
+      <creator>Pomrad</creator>
+      <album>This Day EP</album>
+      <trackNum>1</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBY6B1200025</meta>
+    </track>
+    <track>
+      <title>A Real Hero (College and Electric Youth Cover)</title>
+      <creator>High Highs</creator>
+      <album>Open Season (Deluxe Edition)</album>
+      <trackNum>13</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB3X61300014</meta>
+    </track>
+    <track>
+      <title>Chains</title>
+      <creator>Brothertiger</creator>
+      <album>Retro Future</album>
+      <trackNum>18</trackNum>
+      <duration>313000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USLZJ1398995</meta>
+    </track>
+    <track>
+      <title>Doses &amp; Mimosas</title>
+      <creator>Cherub</creator>
+      <album>MoM &amp; DaD</album>
+      <trackNum>8</trackNum>
+      <duration>323000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11306037</meta>
+    </track>
+    <track>
+      <title>Heartbeats</title>
+      <creator>Grum</creator>
+      <album>Heartbeats</album>
+      <trackNum>7</trackNum>
+      <duration>190000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBPQS1000007</meta>
+    </track>
+    <track>
+      <title>Grown Up</title>
+      <creator>Danny Brown</creator>
+      <album>Grown Up</album>
+      <trackNum>1</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1200054</meta>
+    </track>
+    <track>
+      <title>Body Language</title>
+      <creator>Perez Hilton</creator>
+      <album>Perez Hilton Presents Pop Up #3</album>
+      <trackNum>8</trackNum>
+      <duration>226000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2P1388141</meta>
+    </track>
+    <track>
+      <title>Only You Can Show Me (feat. Mereki)</title>
+      <creator>Goldroom</creator>
+      <album>Embrace</album>
+      <trackNum>4</trackNum>
+      <duration>306000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABQ1316122</meta>
+    </track>
+    <track>
+      <title>Hey Ma</title>
+      <creator>Cam'ron</creator>
+      <album>Come Home With Me (Explicit CD)</album>
+      <trackNum>8</trackNum>
+      <duration>221000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDJ20200342</meta>
+    </track>
+    <track>
+      <title>We Don't Have To Take Our Clothes Off</title>
+      <creator>Jermaine Stewart</creator>
+      <album>Frantic Romantic</album>
+      <trackNum>1</trackNum>
+      <duration>290000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0800745</meta>
+    </track>
+    <track>
+      <title>Forever</title>
+      <creator>Haim</creator>
+      <album>Days Are Gone</album>
+      <trackNum>2</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71304664,USSM11304474</meta>
+    </track>
+    <track>
+      <title>Shooting Stars</title>
+      <creator>Bag Raiders</creator>
+      <album>Bag Raiders</album>
+      <trackNum>3</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM71001517</meta>
+    </track>
+  </trackList>
+</playlist>

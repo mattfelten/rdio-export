@@ -1,0 +1,188 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Sing-a-long</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p1135491</meta>
+  <meta rel="https://rdio.com/xspf/name">Sing-a-long</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/1135491/Sing-a-long/</meta>
+  <trackList>
+    <track>
+      <title>The House That Heaven Built</title>
+      <creator>Japandroids</creator>
+      <album>The House That Heaven Built</album>
+      <trackNum>1</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R41223901</meta>
+    </track>
+    <track>
+      <title>We Can't Be Beat</title>
+      <creator>The Walkmen</creator>
+      <album>Heaven</album>
+      <trackNum>1</trackNum>
+      <duration>282000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBRP1234001,USFP71227301</meta>
+    </track>
+    <track>
+      <title>River</title>
+      <creator>Akron/Family</creator>
+      <album>Set 'Em Wild, Set 'Em Free</album>
+      <trackNum>2</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJ5G0931202</meta>
+    </track>
+    <track>
+      <title>Wake Up</title>
+      <creator>Arcade Fire</creator>
+      <album>Funeral</album>
+      <trackNum>7</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0467008,USMRG0467007</meta>
+    </track>
+    <track>
+      <title>Don't Try and Hide It</title>
+      <creator>The Dodos</creator>
+      <album>No Color</album>
+      <trackNum>5</trackNum>
+      <duration>225000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJMZ1100015</meta>
+    </track>
+    <track>
+      <title>Young Hearts Spark Fire</title>
+      <creator>Japandroids</creator>
+      <album>Post-Nothing</album>
+      <trackNum>2</trackNum>
+      <duration>307000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US3R40918402</meta>
+    </track>
+    <track>
+      <title>Airplanes</title>
+      <creator>Local Natives</creator>
+      <album>Gorilla Manor</album>
+      <trackNum>2</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZUZ0900065</meta>
+    </track>
+    <track>
+      <title>Ho Hey</title>
+      <creator>The Lumineers</creator>
+      <album>The Lumineers</album>
+      <trackNum>5</trackNum>
+      <duration>161000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USDMG1260805</meta>
+    </track>
+    <track>
+      <title>King of Carrot Flowers Pts. 2 &amp; 3</title>
+      <creator>Neutral Milk Hotel</creator>
+      <album>In the Aeroplane Over the Sea</album>
+      <trackNum>2</trackNum>
+      <duration>186000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG0316016</meta>
+    </track>
+    <track>
+      <title>I Woke Up Today</title>
+      <creator>Port O'Brien</creator>
+      <album>All We Could Do Was Sing</album>
+      <trackNum>1</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMSP0800001</meta>
+    </track>
+    <track>
+      <title>Sebastian</title>
+      <creator>Reptar</creator>
+      <album>Body Faucet</album>
+      <trackNum>1</trackNum>
+      <duration>265000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBJET1200009,USVR91272501</meta>
+    </track>
+    <track>
+      <title>Loop de Loop</title>
+      <creator>The Walkmen</creator>
+      <album>Pussy Cats Starring The Walkmen</album>
+      <trackNum>8</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC20600115</meta>
+    </track>
+    <track>
+      <title>Ragged Wood</title>
+      <creator>Fleet Foxes</creator>
+      <album>Fleet Foxes</album>
+      <trackNum>3</trackNum>
+      <duration>305000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0877703,GBBRP0816703</meta>
+    </track>
+    <track>
+      <title>New York, I Love You But You're Bringing Me Down</title>
+      <creator>LCD Soundsystem</creator>
+      <album>Sound Of Silver</album>
+      <trackNum>9</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US4GE0600022</meta>
+    </track>
+    <track>
+      <title>Long Shadows</title>
+      <creator>Josh Ritter</creator>
+      <album>So Runs The World Away</album>
+      <trackNum>13</trackNum>
+      <duration>140000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">IEADC1000026,USTCC1071188</meta>
+    </track>
+    <track>
+      <title>This Year</title>
+      <creator>The Mountain Goats</creator>
+      <album>The Sunset Tree</album>
+      <trackNum>3</trackNum>
+      <duration>232000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL0400071</meta>
+    </track>
+    <track>
+      <title>Starman (2012 Remastered Version)</title>
+      <creator>David Bowie</creator>
+      <album>The Rise and Fall of Ziggy Stardust and the Spiders from Mars (Remastered Version)</album>
+      <trackNum>4</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJT11200004</meta>
+    </track>
+    <track>
+      <title>Cecilia</title>
+      <creator>Simon &amp; Garfunkel</creator>
+      <album>Greatest Hits</album>
+      <trackNum>14</trackNum>
+      <duration>172000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM17001023</meta>
+    </track>
+    <track>
+      <title>Mrs. Robinson</title>
+      <creator>Simon &amp; Garfunkel</creator>
+      <album>The Essential Simon &amp; Garfunkel</album>
+      <trackNum>17</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM16800379</meta>
+    </track>
+    <track>
+      <title>Old Man</title>
+      <creator>Neil Young</creator>
+      <album>Harvest (Remastered Version)</album>
+      <trackNum>6</trackNum>
+      <duration>202000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE10900203,USRE19900185</meta>
+    </track>
+    <track>
+      <title>Ed Is A Portal</title>
+      <creator>Akron/Family</creator>
+      <album>Love Is Simple</album>
+      <trackNum>2</trackNum>
+      <duration>451000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA3T0700014,USA3T0742802</meta>
+    </track>
+    <track>
+      <title>Never Ending Song Of Love</title>
+      <creator>Delaney &amp; Bonnie</creator>
+      <album>Rhino Hi-Five: Delaney &amp; Bonnie</album>
+      <trackNum>4</trackNum>
+      <duration>204000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10301943</meta>
+    </track>
+  </trackList>
+</playlist>

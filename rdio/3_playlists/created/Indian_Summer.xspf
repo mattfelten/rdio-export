@@ -1,0 +1,180 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Indian Summer</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p10349227</meta>
+  <meta rel="https://rdio.com/xspf/name">Indian Summer</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/10349227/Indian_Summer/</meta>
+  <trackList>
+    <track>
+      <title>Paprika Expose</title>
+      <creator>Bradford Cox</creator>
+      <album>Teenage (Original Soundtrack)</album>
+      <trackNum>8</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMDA71419122</meta>
+    </track>
+    <track>
+      <title>Left Hand Free</title>
+      <creator>alt-J</creator>
+      <album>Left Hand Free</album>
+      <trackNum>1</trackNum>
+      <duration>173000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZUZ1400272</meta>
+    </track>
+    <track>
+      <title>Ohio</title>
+      <creator>Neil Young</creator>
+      <album>Greatest Hits</album>
+      <trackNum>8</trackNum>
+      <duration>176000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE19900420</meta>
+    </track>
+    <track>
+      <title>Haystacks</title>
+      <creator>The Cave Singers</creator>
+      <album>No Witch</album>
+      <trackNum>9</trackNum>
+      <duration>198000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y1117609</meta>
+    </track>
+    <track>
+      <title>How Long Must I Wait</title>
+      <creator>Dr. Dog</creator>
+      <album>Be The Void</album>
+      <trackNum>4</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEP41130006</meta>
+    </track>
+    <track>
+      <title>Feel It All Around</title>
+      <creator>Washed Out</creator>
+      <album>Life Of Leisure</album>
+      <trackNum>4</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMEX0800099</meta>
+    </track>
+    <track>
+      <title>Walkabout (W/ Noah Lennox)</title>
+      <creator>Atlas Sound</creator>
+      <album>Logos</album>
+      <trackNum>3</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNCB0913803</meta>
+    </track>
+    <track>
+      <title>Dropla</title>
+      <creator>Youth Lagoon</creator>
+      <album>Wondrous Bughouse</album>
+      <trackNum>6</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFP71329306</meta>
+    </track>
+    <track>
+      <title>This Must Be The Place (Naive Melody)</title>
+      <creator>Talking Heads</creator>
+      <album>Speaking In Tongues</album>
+      <trackNum>9</trackNum>
+      <duration>296000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19900871</meta>
+    </track>
+    <track>
+      <title>Alright</title>
+      <creator>Supergrass</creator>
+      <album>I Should Coco</album>
+      <trackNum>4</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9500044</meta>
+    </track>
+    <track>
+      <title>How Do I Know</title>
+      <creator>Here We Go Magic</creator>
+      <album>A Different Ship</album>
+      <trackNum>8</trackNum>
+      <duration>270000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38W1223008</meta>
+    </track>
+    <track>
+      <title>Cactus</title>
+      <creator>Tanlines</creator>
+      <album>Mixed Emotions</album>
+      <trackNum>10</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMTD1102102</meta>
+    </track>
+    <track>
+      <title>Graceland</title>
+      <creator>Paul Simon</creator>
+      <album>Graceland (25th Anniversary Deluxe Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11002255</meta>
+    </track>
+    <track>
+      <title>Scandinavian Crush</title>
+      <creator>Craft Spells</creator>
+      <album>Idle Labor</album>
+      <trackNum>2</trackNum>
+      <duration>208000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US8YA1110050</meta>
+    </track>
+    <track>
+      <title>It All Feels Right</title>
+      <creator>Washed Out</creator>
+      <album>It All Feels Right - Single</album>
+      <trackNum>1</trackNum>
+      <duration>245000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB1305502</meta>
+    </track>
+    <track>
+      <title>Cranberry</title>
+      <creator>The Ruby Suns</creator>
+      <album>Fight Softly</album>
+      <trackNum>4</trackNum>
+      <duration>292000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSUB0986304,NZLC01000004,GBCSG1000024</meta>
+    </track>
+    <track>
+      <title>A Dream of You and Me</title>
+      <creator>Future Islands</creator>
+      <album>Singles</album>
+      <trackNum>10</trackNum>
+      <duration>239000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1300215</meta>
+    </track>
+    <track>
+      <title>Traveling</title>
+      <creator>Tennis</creator>
+      <album>Young &amp; Old</album>
+      <trackNum>4</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USFP71226504</meta>
+    </track>
+    <track>
+      <title>The Weight</title>
+      <creator>The Band</creator>
+      <album>The Weight</album>
+      <trackNum>1</trackNum>
+      <duration>276000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USCA20000789</meta>
+    </track>
+    <track>
+      <title>Spirit In The Sky</title>
+      <creator>Norman Greenbaum</creator>
+      <album>Spirit In The Sky</album>
+      <trackNum>2</trackNum>
+      <duration>242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560721917</meta>
+    </track>
+    <track>
+      <title>Jump Into the Fire (Single Version)</title>
+      <creator>Harry Nilsson</creator>
+      <album>Everybody's Talkin': The Very Best of Harry Nilsson</album>
+      <trackNum>6</trackNum>
+      <duration>213000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC10503592</meta>
+    </track>
+  </trackList>
+</playlist>

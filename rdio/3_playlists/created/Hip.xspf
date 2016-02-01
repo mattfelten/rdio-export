@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Hip</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p11826215</meta>
+  <meta rel="https://rdio.com/xspf/name">Hip</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/11826215/Hip/</meta>
+  <trackList>
+    <track>
+      <title>Grown Up</title>
+      <creator>Danny Brown</creator>
+      <album>Grown Up</album>
+      <trackNum>1</trackNum>
+      <duration>139000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMSDU1200054</meta>
+    </track>
+    <track>
+      <title>King Kunta</title>
+      <creator>Kendrick Lamar</creator>
+      <album>To Pimp A Butterfly</album>
+      <trackNum>3</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71502494</meta>
+    </track>
+    <track>
+      <title>Latino &amp; Proud</title>
+      <creator>DJ Raff</creator>
+      <album>Latino &amp; Proud</album>
+      <trackNum>5</trackNum>
+      <duration>220000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US66W1101014</meta>
+    </track>
+  </trackList>
+</playlist>

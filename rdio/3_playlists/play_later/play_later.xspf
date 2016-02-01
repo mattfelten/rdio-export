@@ -1,0 +1,94 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Downloaded tracks for Matt Felten</title>
+  <creator>Matt Felten</creator>
+  <meta rel="https://rdio.com/xspf/length">10</meta>
+  <meta rel="https://rdio.com/xspf/name">Downloaded tracks for Matt Felten</meta>
+  <meta rel="https://rdio.com/xspf/owner">Matt Felten</meta>
+  <meta rel="https://rdio.com/xspf/ownerKey">s214448</meta>
+  <meta rel="https://rdio.com/xspf/ownerUrl">/people/mattfelten/</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">play_later</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten//playlists/s214448/play_later/</meta>
+  <trackList>
+    <track>
+      <title>A Few Began to Smoke</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>1</trackNum>
+      <duration>233000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500006</meta>
+    </track>
+    <track>
+      <title>School</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>2</trackNum>
+      <duration>209000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500007</meta>
+    </track>
+    <track>
+      <title>Sunrise Soldier</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>3</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500008</meta>
+    </track>
+    <track>
+      <title>Light Bright Love Letters</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>4</trackNum>
+      <duration>189000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500009</meta>
+    </track>
+    <track>
+      <title>We're All Famous</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>5</trackNum>
+      <duration>180000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500010</meta>
+    </track>
+    <track>
+      <title>We Used to Be Broken</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>6</trackNum>
+      <duration>192000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500011</meta>
+    </track>
+    <track>
+      <title>Arrested Silence</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>7</trackNum>
+      <duration>208000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500012</meta>
+    </track>
+    <track>
+      <title>Fist 101</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>8</trackNum>
+      <duration>214000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500013</meta>
+    </track>
+    <track>
+      <title>Plastic Jungles</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>9</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500014</meta>
+    </track>
+    <track>
+      <title>Bath Tub</title>
+      <creator>Dfalt</creator>
+      <album>Dfalt</album>
+      <trackNum>10</trackNum>
+      <duration>240000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPG21500015</meta>
+    </track>
+  </trackList>
+</playlist>

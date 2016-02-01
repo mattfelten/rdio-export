@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>8-bit James</title>
+  <creator>mattfelten</creator>
+  <meta rel="https://rdio.com/xspf/key">p13754318</meta>
+  <meta rel="https://rdio.com/xspf/name">8-bit James</meta>
+  <meta rel="https://rdio.com/xspf/owner">mattfelten</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/mattfelten/playlists/13754318/8-bit_James/</meta>
+  <trackList>
+    <track>
+      <title>Sapphire</title>
+      <creator>Parkinson White, Kyle Cook</creator>
+      <album>Sapphire EP</album>
+      <trackNum>2</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBP4E1400091</meta>
+    </track>
+    <track>
+      <title>Korben Dallas</title>
+      <creator>FaltyDL</creator>
+      <album>Hardcourage</album>
+      <trackNum>8</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1204714</meta>
+    </track>
+    <track>
+      <title>Streamers</title>
+      <creator>Wave Racer</creator>
+      <album>Streamers</album>
+      <trackNum>1</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01400522</meta>
+    </track>
+    <track>
+      <title>Stoopid</title>
+      <creator>Wave Racer</creator>
+      <album>Rock U Tonite / Stoopid</album>
+      <trackNum>2</trackNum>
+      <duration>217000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01300455</meta>
+    </track>
+  </trackList>
+</playlist>
